@@ -11,6 +11,7 @@ class Product < ActiveRecord::Base
             puts"Review for #{name} by #{review.user.name}: #{review.star_rating}. #{review.comment}"
         end
     end
+
   def average_rating
     reviews.average(:star_rating)
   end
