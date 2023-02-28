@@ -5,6 +5,7 @@
 ## Project Description
 Product reveiw code challenge is a code challenge that helps one to  practice more on the active record migration and also associations, it has three models the user , the product and also the  reviews  from the users.During this project  all that was required is to show the relations between all of them and how the computer can communicate with them to have an output to our frontend side. 
   ## SCREENSHOTS
+![Screenshot from 2023-02-27 23-35-33](https://user-images.githubusercontent.com/117694716/221788889-b1f77b92-47a3-4ba7-a8bc-ea742a761567.png)
 
 ********
 ## Technologies Used
